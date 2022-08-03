@@ -20,8 +20,8 @@
                     "option" : "I dopqpwsa not know"
                 }
             ],
-          "answer_index":"1",
-          "selected_answer":"0",
+          "answer_index":1,
+          "selected_answer":0,
           "isAnswered":false
           "explanation":"Blash"
   
@@ -48,8 +48,8 @@
                     "option" : "I do not know"
                 }
             ],
-            "answer_index":"1",
-            "selected_answer":"0",
+            "answer_index":1,
+            "selected_answer":0,
             "isAnswered":false
             "explanation":"Blash"
 
@@ -75,8 +75,8 @@
                     "option" : "I do not know"
                 }
             ],
-            "answer_index":"1",
-            "selected_answer":"0",
+            "answer_index":1,
+            "selected_answer":0,
             "isAnswered":false
             "explanation":"Blash"
 
